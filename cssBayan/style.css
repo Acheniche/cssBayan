@@ -141,7 +141,7 @@ img{
   
   .accordion:hover .accordion__content {
     width: 40vw;
-    height: 50vh;
+    height: 40vh;
     padding: 3vh;
     transition: 0.4s;
   }
@@ -154,7 +154,7 @@ img{
   
   .accordion input:checked ~ .accordion__content {
     width: 40vw;
-    height: 50vh;
+    height: 40vh;
     padding: 3vh;
     transition: 0.4s;
   }
@@ -174,7 +174,7 @@ img{
   }
   img{
     width: 40vw;
-    height: 50vh;
+    height: 40vh;
   }
 }
 
